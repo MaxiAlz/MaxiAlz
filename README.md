@@ -32,7 +32,7 @@
 
 
 ## Connect with me  
-<table><tr><td valign="top" width="50%">
+
 
 <a href="https://github.com/Maxialz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
