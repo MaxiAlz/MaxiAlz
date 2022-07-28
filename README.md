@@ -5,15 +5,13 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQEJ4nLmMY8pcw/profile-displaybackgroundimage-shrink_350_1400/0/1649273226097?e=1664409600&v=beta&t=LvDym7lH3qmoVMbWIHkVMqJAsYJalPLZ2r06JVv_B_8" align="center" style="width: 100%" />
 </div>  
   
-
+<br/>  
 ***About me:***  
   
 
 👷‍♂️After to work in different things, in 2021 I proposed to me learning full-time about Information Technologies focuse to MERN stack💻. The IT was a new world for me,  that it won all my passion in a short time⏳, currently I'm really happy to working like a developer in a Argentina Company of software😁, but i never stop to learn other technologies or somethin about this incredible world📚  
   
-
 <br/>  
-
 
 ## My Skill Set  
 <div align="center">  
@@ -33,6 +31,8 @@
 
 
 ## Connect with me  
+<table><tr><td valign="top" width="50%">
+
 <div align="center">
 <a href="https://github.com/https://github.com/MaxiAlz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -47,22 +47,11 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiAlz&hide_border=true&layout=compact" align="center" /></div>  
+</td><td valign="top" width="50%">
 
-<br/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiAlz&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-  
+</td></tr></table>  
 
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
