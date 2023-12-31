@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/C4E16AQEJ4nLmMY8pcw/profile-displaybackgroundimage-shrink_350_1400/0/1649273226097?e=1681948800&v=beta&t=aw9NTMSsPrdGf0QGtkISawFXxhLHP8yjv3ebzPouoeA" align="center" style="width: 100%" />
+<img src="[https://media.licdn.com/dms/image/C4E16AQEJ4nLmMY8pcw/profile-displaybackgroundimage-shrink_350_1400/0/1649273226097?e=1681948800&v=beta&t=aw9NTMSsPrdGf0QGtkISawFXxhLHP8yjv3ebzPouoeA" align="center](https://media.licdn.com/dms/image/C4E16AQEJ4nLmMY8pcw/profile-displaybackgroundimage-shrink_350_1400/0/1649273227356?e=1709769600&v=beta&t=MiEAJxcpNHFb0YvPfPChkU7B_wz8Pxk4Oh5RnwSjXqw)" style="width: 100%" />
 </div>  
   
 <br/>  
@@ -10,7 +10,11 @@
 ## About me:
   
 
-👷‍♂️After to work in different things, in 2021 I proposed to me learning full-time about Information Technologies focuse to MERN stack💻. The IT was a new world for me,  that it won all my passion in a short time⏳,I'm really happy to working like a developer in a Argentina Team, after to work in different companies currently i'm working in proyecto for a statal enterprises projects of my country 😁, but i never stop to learn other technologies or somethin about this incredible world📚  
+👷‍♂️ After going through various work experiences in large companies, I am currently very pleased to be working as a developer in an Argentine team. I collaborate on projects for state organizations in my country and also work as a freelancer on my own initiatives and for other clients. 😁,
+
+¡ I never stop to learn other technologies or somethin about this incredible world!📚  
+
+Web Developer since 2020
   
 <br/>  
 
