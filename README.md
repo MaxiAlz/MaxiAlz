@@ -10,7 +10,7 @@
 ## About me:
   
 
-👷‍♂️After to work in different things, in 2021 I proposed to me learning full-time about Information Technologies focuse to MERN stack💻. The IT was a new world for me,  that it won all my passion in a short time⏳, currently I'm really happy to working like a developer in a Argentina Company of software😁, but i never stop to learn other technologies or somethin about this incredible world📚  
+👷‍♂️After to work in different things, in 2021 I proposed to me learning full-time about Information Technologies focuse to MERN stack💻. The IT was a new world for me,  that it won all my passion in a short time⏳,I'm really happy to working like a developer in a Argentina Team, after to work in different companies currently i'm working in proyecto for a statal enterprises projects of my country 😁, but i never stop to learn other technologies or somethin about this incredible world📚  
   
 <br/>  
 
