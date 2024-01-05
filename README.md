@@ -1,4 +1,4 @@
-## <div align="center">Hi Everyone! 👋 I'm Maxi Alzugaray a FullStack MERN Developer👨‍💻  from Argentina   🇦🇷</div>  
+## <div align="center">Hi Everyone! 👋 I'm Maxi Alzugaray a FullStack Developer👨‍💻  from Argentina   🇦🇷</div>  
   
 
 <div align="center">
