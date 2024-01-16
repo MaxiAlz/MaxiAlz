@@ -30,6 +30,9 @@ Web Developer since 2020
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
+<img style="margin: 10px" src="https://openexpoeurope.com/wp-content/uploads/2019/09/svelte-logo.jpg" alt=".NET" height="50" />  
+<img style="margin: 10px" src="https://w7.pngwing.com/pngs/513/767/png-transparent-strapi-logo-tech-companies.png" alt=".NET" height="50" /> 
+<img style="margin: 10px" src="https://seeklogo.com/images/A/astro-logo-B3B4DABB0A-seeklogo.com.png" alt=".NET" height="50" /> 
 </div>  
 
 <br/>  
