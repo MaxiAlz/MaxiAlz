@@ -10,11 +10,15 @@
 ## About me:
   
 
-👷‍♂️ After going through various work experiences in large companies, I am currently very pleased to be working as a developer in an Argentine team. I collaborate on projects for state organizations in my country and also work as a freelancer on my own initiatives and for other clients. 😁,
+Hello👋🏽! I am a passionate software developer with track record in the industry, having worked for renowned companies as well as independently. My forte lies in crafting cross-platform web and mobile applications, with a distinct focus on functionality, intuitiveness, and visual appeal for the end-user.
 
-¡ I never stop to learn other technologies or somethin about this incredible world!📚  
+I look comprehending the specific needs of my clients, thereafter translating them into effective digital solutions.
 
-Web Developer since 2020
+I possess adept proficiency in programming languages such as React.js and Svelte.js for web application development, along with Flutter for multi-platform mobile app creation.
+
+Furthermore,i Like create intuitive designs, using prototyping and wireframing tools to ensure an real user experience.
+
+If you're seeking collaborator for your next digital solution, don't hesitate to reach out to me.
   
 <br/>  
 
