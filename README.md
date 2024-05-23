@@ -39,10 +39,8 @@ If you're seeking collaborator for your next digital solution, don't hesitate to
 <img style="margin: 10px" src="https://openexpoeurope.com/wp-content/uploads/2019/09/svelte-logo.jpg" alt=".NET" height="50" />  
 <img style="margin: 10px" src="https://anblik.com/wp-content/uploads/2023/01/strapi-logo.jpg" alt=".NET" height="50" /> 
 <img style="margin: 10px" src="https://seeklogo.com/images/A/astro-logo-B3B4DABB0A-seeklogo.com.png" alt=".NET" height="50" /> 
-
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />    
 </div>  
 
 <br/>  
